@@ -32,7 +32,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Author
 
-**Abaid Ali Miran**
+**Unknown**
 ---
 
-*Designed and Developed by Abaid Ali Miran*
+*Designed and Developed by searching...*
