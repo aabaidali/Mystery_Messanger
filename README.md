@@ -24,7 +24,7 @@ Mystery Messenger is a Flutter application that allows users to encode and decod
 
 ## Download APK
 
-You can download the APK for Mystery Messenger [here]().
+You can download the APK for Mystery Messenger [here](https://github.com/aabaidali/Mystery_Messanger/archive/refs/tags/APk.zip).
 
 ## Contributing
 
